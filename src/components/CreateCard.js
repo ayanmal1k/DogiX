@@ -254,7 +254,7 @@ export default function CreateCard() {
                             </div>
                         </div>
                         <h2 className="text-3xl font-bold text-white drop-shadow-lg" style={{textShadow: "0 0 20px rgba(234, 179, 8, 0.8)"}}>Insufficient Balance</h2>
-                        <p className="text-slate-300 text-center">You need at least 100,000 Dogix to create a token</p>
+                        <p className="text-slate-300 text-center">You need at least 1,000,000 Dogix to create a token</p>
                     </div>
                     
                     <div className="bg-gradient-to-br from-yellow-950/40 to-orange-950/40 p-6 rounded-xl border border-yellow-500/30 space-y-4">
