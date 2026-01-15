@@ -272,7 +272,7 @@ export default function CreateCard() {
                             <p className="text-slate-400 text-sm">Required Balance:</p>
                             <div className="bg-slate-800/60 p-4 rounded-lg border border-yellow-500/20">
                                 <p className="text-2xl font-bold text-yellow-400 drop-shadow-lg">
-                                    100,000
+                                    1,000,000
                                 </p>
                                 <p className="text-xs text-slate-400 mt-1">Minimum Dogix Tokens</p>
                             </div>
