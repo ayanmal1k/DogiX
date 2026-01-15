@@ -228,7 +228,7 @@ export default function CreateCard() {
                 <>
                     <div>
                         <CardTitle className="text-2xl font-bold text-white drop-shadow-lg mb-2" style={{textShadow: "0 0 15px rgba(255, 140, 0, 0.8)"}}>
-                            DogiX Token Creator
+                            BSC Token Creator
                         </CardTitle>
                         <CardDescription className="text-slate-300 text-base">
                             Enter your token details and deploy to BSC Chain instantly
